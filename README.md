@@ -1,2 +1,1 @@
 # testas
-rm Projects
