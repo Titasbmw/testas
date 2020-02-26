@@ -1,1 +1,2 @@
 # testas
+rm Projects
